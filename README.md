@@ -1,4 +1,4 @@
-# SCD Patient App
+# Aowkin
 
 ## Overview
 
